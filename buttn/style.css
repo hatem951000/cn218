@@ -437,9 +437,10 @@ wall2 painting {
 
 wall3 painting {
   width: 110rem;
-  height: 144rem;
+  height: 110rem;
   transform: rotateY(90deg) translate3d(0, -17rem, -200rem);
 }
+
 
 wall4 {
   transform: translate3d(-150rem, -50rem, -150rem);
