@@ -438,9 +438,7 @@ wall3 painting {
   width: 110rem;
   height: 105rem;
   transform: rotateY(90deg) translate3d(0, -17rem, -200rem);
-}orm: rotateY(90deg) translate3d(0, -17rem, -200rem);
 }
-
 wall4 {
   transform: translate3d(-150rem, -50rem, -150rem);
   background: radial-gradient(circle at 60% 80%, rgba(255, 255, 255, 0), rgba(17, 14, 18, 0.5)), linear-gradient(to right, rgba(17, 14, 18, 0.5), rgba(255, 255, 255, 0), rgba(255, 255, 255, 0), rgba(17, 14, 18, 0.5));
