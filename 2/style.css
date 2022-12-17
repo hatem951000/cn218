@@ -428,7 +428,6 @@ wall3 painting p * {
   position: relative;
   content: normal;
 }
-
 wall2 painting {
   width: 200rem;
   height: 126rem;
@@ -437,8 +436,9 @@ wall2 painting {
 
 wall3 painting {
   width: 110rem;
-  height: 144rem;
+  height: 105rem;
   transform: rotateY(90deg) translate3d(0, -17rem, -200rem);
+}orm: rotateY(90deg) translate3d(0, -17rem, -200rem);
 }
 
 wall4 {
